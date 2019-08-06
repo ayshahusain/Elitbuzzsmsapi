@@ -1,4 +1,8 @@
 zafar husain working on elitbuzz. I came form india.
 When ?
+<<<<<<< HEAD
 
 Ok good.
+=======
+what is next?
+>>>>>>> master

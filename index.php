@@ -1,5 +1,6 @@
 <?php
 echo 'head';
+echo 'headclose';
 echo 'html';
 echo 'Header';
 echo 'body';

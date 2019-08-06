@@ -1,5 +1,5 @@
 <?php
-echo 'head';
+echo 'headzafar';
 
 echo 'html';
 echo 'Header';

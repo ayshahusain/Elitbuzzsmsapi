@@ -1,5 +1,5 @@
 <?php
-echo 'head';
+echo 'headdev';
 echo 'headclose';
 echo 'html';
 echo 'Header';

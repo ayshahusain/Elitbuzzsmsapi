@@ -1,2 +1,7 @@
 Elitbuzz
+<<<<<<< HEAD
 zafar : This is my first job. this is good company
+=======
+zafar : This is my first job.
+Where is?
+>>>>>>> master
